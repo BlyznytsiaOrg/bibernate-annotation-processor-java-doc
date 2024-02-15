@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.blyznytsiaorg.bibernate"},{"l":"io.github.blyznytsiaorg.bibernate.annotation"},{"l":"io.github.blyznytsiaorg.bibernate.annotation.enumeration"}];updateSearchResults();
